@@ -1,6 +1,6 @@
-# Hi 👋, I'm Nguyễn Hà Minh Đạt (Emtis)
+# Hi 👋, I'm Dat ( u can call me emtiz, zhouc, samuel)
 
-**Game Developer | Web Developer | Graphic Designer & Digital Artist**
+**Game Developer | Web Developer | Graphic Designer | Digital Artist | Musician |**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=emtisnguyen&color=blue&style=flat-square)
 
