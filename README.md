@@ -1,18 +1,19 @@
-# Hi 👋, I'm Dat (Emtis aka zhouc aka samuel)
+# Hi 👋, I'm Nguyễn Hà Minh Đạt (Emtis)
 
-**A passionate Game Developer | Web Developer | Graphic Designer | Artist | Musician**
+**Game Developer | Web Developer | Graphic Designer & Digital Artist**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=emtisnguyen&color=blue&style=flat-square)
 
 ---
 
-### Overview
+### Overview 🎨🎮
 
-* 🔭 I’m currently working on **STATIC KILLER** (a PSX-style survival horror game in Unity) and projects under **TRICOCK STUDIO**.
-* 🌱 I’m currently studying **Information Systems** and building web applications with **React, Vite, & Python**.
-* 👯 I’m looking to collaborate on **Indie Games** and creative Web Dev projects.
-* 🎵 Fun fact: When I'm not coding, I'm producing music in **FL Studio**, designing retro posters, or customizing mechanical keyboards!
-* 💬 Ask me about **Unity, C#, React, or UI/UX Design**.
+* 🔭 I’m currently working on **STATIC KILLER** (a PSX-style survival horror game in Unity) and visual branding for **TRICOCK STUDIO**.
+* 🎨 I specialize in **Graphic Design**, **Branding & Visual Identity**, **Retro Posters**, **UI/UX Design**, and digital game assets.
+* 🌱 I’m studying **Information Systems** at IUH while building web applications with **React, PHP, HTML/CSS, & Python**.
+* 🎮 Game Engines & Dev: **Unity (C#), Unreal Engine (C++), Godot (GDScript)**.
+* 🎵 Fun fact: When I'm not coding or designing, I produce music in **FL Studio** and mod mechanical keyboards!
+* 💬 Ask me about **Graphic Design, Unity / Unreal / Godot, C# / C++, React, or PHP**.
 * 📫 How to reach me: **minhdatnguyenha@gmail.com**
 
 ### Connect with me 🤝
@@ -26,14 +27,31 @@
   </a>
 </p>
 
-### Languages and Tools 💻
+### Design Tools, Game Engines & Languages 🎨🎮💻
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <!-- Design & Creative Software -->
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=black" alt="Illustrator"/>
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=black" alt="After Effects"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <br/>
+  <!-- Game Engines -->
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot"/>
+  <br/>
+  <!-- Languages & Web Development Stack -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emtisnguyen&show_icons=true&theme=radical" alt="emtisnguyen's github stats" />
+</p>
