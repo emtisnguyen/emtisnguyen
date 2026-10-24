@@ -10,7 +10,7 @@
 
 * 🔭 I’m currently working on **STATIC KILLER** (a PSX-style survival horror game in Unity) and visual branding for **TRICOCK STUDIO**.
 * 🎨 I specialize in **Graphic Design**, **Branding & Visual Identity**, **Retro Posters**, **UI/UX Design**, and digital game assets.
-* 🌱 I’m studying **Information Systems** at IUH while building web applications with **React, PHP, HTML/CSS, & Python**.
+* 🌱 I’m studying **Information Systems** while building web applications with **React, PHP, HTML/CSS, & Python**.
 * 🎮 Game Engines & Dev: **Unity (C#), Unreal Engine (C++), Godot (GDScript)**.
 * 🎵 Fun fact: When I'm not coding or designing, I produce music in **FL Studio** and mod mechanical keyboards!
 * 💬 Ask me about **Graphic Design, Unity / Unreal / Godot, C# / C++, React, or PHP**.
